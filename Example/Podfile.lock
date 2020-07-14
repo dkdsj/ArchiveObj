@@ -1,0 +1,16 @@
+PODS:
+  - ArchiveObj (0.1.0)
+
+DEPENDENCIES:
+  - ArchiveObj (from `../`)
+
+EXTERNAL SOURCES:
+  ArchiveObj:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  ArchiveObj: 490861af4e34c53e5b0deba0d2dfd55aee5f361c
+
+PODFILE CHECKSUM: c65ce51a4a712a8f3b1b0d1f0e082082d081b830
+
+COCOAPODS: 1.7.5

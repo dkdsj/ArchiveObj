@@ -1,0 +1,6 @@
+framework module ArchiveObj {
+  umbrella header "ArchiveObj-umbrella.h"
+
+  export *
+  module * { export * }
+}
