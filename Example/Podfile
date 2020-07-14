@@ -1,0 +1,13 @@
+use_frameworks!
+
+platform :ios, '8.0'
+
+target 'ArchiveObj_Example' do
+  pod 'ArchiveObj', :path => '../'
+
+  target 'ArchiveObj_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end
